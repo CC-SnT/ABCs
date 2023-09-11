@@ -1,3 +1,3 @@
 # ABCs
-Learning to program with Python
+This is my first repository. I am learning to program with Python.
 Author - Sai Manohar
